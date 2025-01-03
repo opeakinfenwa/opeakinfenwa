@@ -13,15 +13,15 @@ Intermediate Experience: <br>
 🖥️ Software Development Life Cycle (SDLC) <br>
 🔄 DevOps Practices
 
-Familiar With:
+Familiar With:<br>
 🌐 React
 
-High Competence in
+<h4>High Competence in:<h4> <br>
 🔗 REST APIs, WebRTC, Socket.IO
 🧩 Docker, Kubernetes, AWS, Nginx
 🔧 GitHub Actions
 
-Current Interests:
+Current Interests: <br>
 🛠️ NestJS
 ☁️ AWS Lambda
 
@@ -31,9 +31,9 @@ Focused on designing efficient and fault-tolerant architectures.
 Passionate about continuous learning and adopting cutting-edge technologies.
 
 ## 📫 Let's Connect!
-💼 LinkedIn
-🖥️ Portfolio
-✉️ Email Me
+💼 LinkedIn  <br>
+🖥️ Portfolio <br>
+✉️ Email Me   
 
 <!--
 **Bamiakins/bamiakins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
