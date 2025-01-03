@@ -17,12 +17,12 @@ I'm a Backend Engineer passionate about designing and building scalable, reliabl
 🌐 React
 
 **High Competence in:** <br>
-🔗 REST APIs, WebRTC, Socket.IO
-🧩 Docker, Kubernetes, AWS, Nginx
+🔗 REST APIs, WebRTC, Socket.IO <br>
+🧩 Docker, Kubernetes, AWS, Nginx <br>
 🔧 GitHub Actions
 
 **Current Interests:** <br>
-🛠️ NestJS
+🛠️ NestJS <br>
 ☁️ AWS Lambda
 
 **Past Specialised Mastery in:** <br>
@@ -34,9 +34,9 @@ Focused on designing efficient and fault-tolerant architectures.
 Passionate about continuous learning and adopting cutting-edge technologies.
 
 ## 📫 Let's Connect!
-💼 LinkedIn  <br>
-🖥️ Portfolio <br>
-✉️ Email Me   
+🖥️ [Portfolio](https://bami.vercel.app) <br>
+💼 [LinkedIn](https://linkedin.com/in/bamiakins)  <br>
+✉️ [Email Me](https://mailto:bamiakinfenwa@gmail.com)  
 
 <!--
 **Bamiakins/bamiakins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
