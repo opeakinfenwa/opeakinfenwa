@@ -4,13 +4,13 @@ Hi there! 👋
 I'm a Backend Engineer passionate about designing and building scalable, reliable, and efficient systems. My expertise spans backend development, distributed systems, and microservices.
 
 ## 🚀 About Me
-Mastery in:
-🛠️ TypeScript, Express.js
-🗄️ PostgreSQL, MongoDB, Redis
+Mastery in: <br>
+🛠️ TypeScript Express.js <br>
+🗄️ PostgreSQL, MongoDB, Redis <br>
 🌀 Kafka
 
-Intermediate Experience:
-🖥️ Software Development Life Cycle (SDLC)
+Intermediate Experience: <br>
+🖥️ Software Development Life Cycle (SDLC) <br>
 🔄 DevOps Practices
 
 Familiar With:
