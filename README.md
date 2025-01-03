@@ -36,7 +36,7 @@ Passionate about continuous learning and adopting cutting-edge technologies.
 ## 📫 Let's Connect!
 🖥️ [Portfolio](https://bami.vercel.app) <br>
 💼 [LinkedIn](https://linkedin.com/in/bamiakins)  <br>
-✉️ [Email Me](https://mailto:bamiakinfenwa@gmail.com)  
+✉️ [Email Me](mailto:bamiakinfenwa@gmail.com)  
 
 <!--
 **Bamiakins/bamiakins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
