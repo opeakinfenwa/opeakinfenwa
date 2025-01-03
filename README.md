@@ -3,31 +3,34 @@
 Hi there! 👋
 I'm a Backend Engineer passionate about designing and building scalable, reliable, and efficient systems. My expertise spans backend development, distributed systems, and microservices.
 
-🚀 About Me
+## 🚀 About Me
 Mastery in:
-
 🛠️ TypeScript, Express.js
 🗄️ PostgreSQL, MongoDB, Redis
 🌀 Kafka
-Intermediate Experience:
 
+Intermediate Experience:
 🖥️ Software Development Life Cycle (SDLC)
 🔄 DevOps Practices
-Familiar With:
 
+Familiar With:
 🌐 React
+
+High Competence in
 🔗 REST APIs, WebRTC, Socket.IO
 🧩 Docker, Kubernetes, AWS, Nginx
 🔧 GitHub Actions
-Current Interests:
 
+Current Interests:
 🛠️ NestJS
 ☁️ AWS Lambda
-🌟 My Core Strengths
+
+## 🌟 My Core Strengths
 Proficient in building distributed systems and microservices that scale.
 Focused on designing efficient and fault-tolerant architectures.
 Passionate about continuous learning and adopting cutting-edge technologies.
-📫 Let's Connect!
+
+## 📫 Let's Connect!
 💼 LinkedIn
 🖥️ Portfolio
 ✉️ Email Me
