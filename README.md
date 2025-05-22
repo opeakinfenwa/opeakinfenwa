@@ -27,9 +27,9 @@ I'm Bami Akinfenwa, a Backend Engineer passionate about designing and building s
 🎨Product Design
 
 ## 🌟 My Core Strengths
-Proficient in building distributed systems and microservices that scale.
-Focused on designing efficient and fault-tolerant architectures.
-Passionate about continuous learning and adopting cutting-edge technologies.
+Proficient in building distributed systems and microservices that scale. <br>
+Focused on designing efficient and fault-tolerant architectures. <br>
+Passionate about continuous learning and adopting cutting-edge technologies. <br>
 
 ## 📫 Let's Connect!
 🖥️ [Portfolio](https://bami.vercel.app) <br>
