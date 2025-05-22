@@ -4,9 +4,9 @@ I'm Bami Akinfenwa, a Backend Engineer passionate about designing and building s
 
 ## 🚀 About Me
 **Mastery in:** <br>
-🛠️ TypeScript Express.js <br>
+🛠️ TypeScript, Express.js, NestJS <br>
 🗄️ PostgreSQL, MongoDB, Redis <br>
-🌀 Kafka
+🌀 Kafka, RabbitMQ
 
 **Intermediate Experience:** <br>
 🖥️ Software Development Life Cycle (SDLC) <br>
@@ -16,13 +16,12 @@ I'm Bami Akinfenwa, a Backend Engineer passionate about designing and building s
 🌐 React
 
 **High Competence in:** <br>
-🔗 REST APIs, WebRTC, Socket.IO <br>
-🧩 Docker, Kubernetes, AWS, Nginx <br>
-🔧 GitHub Actions
-
-**Current Interests:** <br>
-🛠️ NestJS <br>
-☁️ AWS Lambda
+🔗 REST APIs, Socket.IO <br>
+🧩 Docker, Kubernetes, Terraform, Nginx <br>
+☁️ AWS <br>
+🔧 GitHub Actions <br>
+🧪 Jest <br>
+⚡ ORMs <br>
 
 **Past Specialised Mastery in:** <br>
 🎨Product Design
