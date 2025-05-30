@@ -1,6 +1,6 @@
 ## Hi there 👋🏾
 
-I'm Bami Akinfenwa, a Backend Engineer passionate about designing and building scalable, reliable, and efficient systems. My expertise spans backend development, distributed systems, and microservices.
+I'm Bami Akinfenwa, a Backend specialised software engineer passionate about designing and building scalable, reliable, and efficient systems. My expertise spans backend development, distributed systems, microservices and development operations.
 
 ## 🚀 About Me
 **Mastery in:** <br>
