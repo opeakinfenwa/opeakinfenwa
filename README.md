@@ -12,22 +12,22 @@ I'm Bami Akinfenwa, a Backend specialised software engineer passionate about des
 🖥️ Software Development Life Cycle (SDLC) <br>
 🔄 DevOps Practices
 
-**Familiar With:** <br>
-🌐 React
-
 **High Competence in:** <br>
 🔗 REST APIs, Socket.IO <br>
 🧩 Docker, Kubernetes, Terraform, Nginx <br>
 ☁️ AWS <br>
 🔧 GitHub Actions <br>
 🧪 Jest <br>
-⚡ ORMs <br>
+⚡ ORMs 
+
+**Familiar With:** <br>
+🌐 React.js
 
 **Past Specialised Mastery in:** <br>
 🎨Product Design
 
 ## 🌟 My Core Strengths
-Proficient in building distributed systems and microservices that scale. <br>
+Proficient in building services, distributed systems and microservices that scale. <br>
 Focused on designing efficient and fault-tolerant architectures. <br>
 Passionate about continuous learning and adopting cutting-edge technologies. <br>
 
