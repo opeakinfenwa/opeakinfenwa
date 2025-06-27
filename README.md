@@ -20,7 +20,7 @@ I'm Ope Akinfenwa, a backend specialised software engineer passionate about desi
 ⚡ ORMs 
 
 **Familiar With:** <br>
-🌐 frontend to backend integration workflows and API consumption.
+🌐 frontend to backend integration workflows
 
 ## 🌟 My Core Strengths
 • Proficient in building scalable backend services, microservices, and event driven systems <br>
