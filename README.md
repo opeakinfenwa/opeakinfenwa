@@ -1,19 +1,18 @@
 ## Hi there 👋🏾
-
-I'm Ope Akinfenwa, a Backend specialised software engineer passionate about designing and building scalable, reliable, and efficient systems. My expertise spans backend development, distributed systems, microservices and development operations.
+I'm Ope Akinfenwa, a backend-specialised software engineer passionate about designing and building scalable, reliable, and efficient systems. I focus on backend development, microservices, event-driven systems, and DevOps workflows, bringing a product-aware mindset to engineering great software.
 
 ## 🚀 About Me
-**Mastery in:** <br>
+**Specialized In:** <br>
 🛠️ TypeScript, Express.js, NestJS <br>
 🗄️ PostgreSQL, MongoDB, Redis <br>
 🌀 Kafka, RabbitMQ
 
-**Intermediate Experience:** <br>
+**Experienced With:** <br>
 🖥️ Software Development Life Cycle (SDLC) <br>
 🔄 DevOps Practices
 
-**High Competence in:** <br>
-🔗 REST APIs, Socket.IO <br>
+**Proficient In:** <br>
+🔗 REST APIs, WebSocket, Socket.IO <br>
 🧩 Docker, Kubernetes, Terraform, Nginx <br>
 ☁️ AWS <br>
 🔧 GitHub Actions <br>
@@ -21,20 +20,22 @@ I'm Ope Akinfenwa, a Backend specialised software engineer passionate about desi
 ⚡ ORMs 
 
 **Familiar With:** <br>
-🌐 React.js
+🌐 frontend-backend integration workflows and API consumption.
 
-**Past Specialised Mastery in:** <br>
+**Previously Specialised In:** <br>
 🎨Product Design
 
 ## 🌟 My Core Strengths
-Proficient in building services, distributed systems and microservices that scale. <br>
-Focused on designing efficient and fault-tolerant architectures. <br>
-Passionate about continuous learning and adopting cutting-edge technologies. <br>
+• Proficient in building scalable backend services, microservices, and event-driven systems <br>
+
+• Focused on designing efficient, fault-tolerant, and maintainable architectures <br>
+
+• Passionate about continuous learning and applying modern technologies to solve real-world problems <br>
 
 ## 📫 Let's Connect!
-🖥️ [Portfolio](https://bami.vercel.app) <br>
-💼 [LinkedIn](https://linkedin.com/in/bamiakins)  <br>
-✉️ [Email Me](mailto:bamiakinfenwa@gmail.com)  
+🖥️ [Portfolio](https://akinfenwa.vercel.app) <br>
+💼 [LinkedIn](https://linkedin.com/in/opeakinfenwa)  <br>
+✉️ [Email Me](mailto:opeaakinfenwa@gmail.com)  
 
 <!--
 **Bamiakins/bamiakins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
