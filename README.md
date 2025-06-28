@@ -1,5 +1,5 @@
 ## Hi there 👋🏾
-I'm Ope Akinfenwa, a backend specialised software engineer passionate about designing and building scalable, reliable, and efficient systems. I focus on backend development, microservices, event driven systems, and DevOps workflows, bringing a product aware mindset to engineering great software applications.
+I'm Ope Akinfenwa, a backend engineer passionate about designing and building scalable, reliable, and efficient systems. I focus on backend development, microservices, event driven systems, and DevOps workflows, bringing a product aware mindset to engineering great software applications.
 
 ## 🚀 About Me
 **Specialized In:** <br>
