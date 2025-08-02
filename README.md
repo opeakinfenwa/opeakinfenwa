@@ -1,5 +1,5 @@
 ## Hi there 👋🏾
-I'm Ope Akinfenwa, a backend engineer passionate about designing and building scalable, reliable, and efficient systems. I focus on backend development, microservices, event driven systems, and DevOps workflows, bringing a product aware mindset to engineering great software applications.
+I’m Ope Akinfenwa, a Backend Engineer passionate about building scalable, resilient systems. I focus on microservices, event driven architectures, and API design, with expertise in cloud native development, DevOps, and GitOps workflows. I prioritize reliability through automation and observability, ensuring secure, maintainable, and high performing backend solutions.
 
 ## 🚀 About Me
 **Specialized In:** <br>
@@ -16,8 +16,14 @@ I'm Ope Akinfenwa, a backend engineer passionate about designing and building sc
 🧩 Docker, Kubernetes, Terraform, Nginx <br>
 ☁️ AWS <br>
 🔧 GitHub Actions <br>
-🧪 Jest <br>
+🧪 Jest, Postman <br>
+📑 OpenAPI (Swagger) <br>
 ⚡ ORMs 
+
+**Exposure In** <br>
+📈 Prometheus, Grafana <br>
+📜 Loki, Alertmanager <br>
+🔄 ArgoCD 
 
 **Familiar With:** <br>
 🌐 frontend-backend integration workflows
