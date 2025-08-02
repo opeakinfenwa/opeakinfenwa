@@ -12,7 +12,7 @@ I'm Ope Akinfenwa, a backend engineer passionate about designing and building sc
 🔄 DevOps Practices
 
 **Proficient In:** <br>
-🔗 REST APIs, WebSocket, Socket.IO <br>
+🔗 REST APIs, GraphQL APIs, WebSocket, Socket.IO <br>
 🧩 Docker, Kubernetes, Terraform, Nginx <br>
 ☁️ AWS <br>
 🔧 GitHub Actions <br>
